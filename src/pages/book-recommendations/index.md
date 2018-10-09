@@ -38,6 +38,18 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
 - ISBN-13: 978-0262033848 
 
+*Data Structures And Algorithms Made Easy*
+- [Amazon Smile](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X)
+- ISBN-13: 978-8193245279
+
+*Computer Science Distilled: Learn the art of solving computaitonal problems by Wladston Ferreira Filho*
+- [Amazon](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
+- ISBN-13: 978-0-9773160-2-5
+
+*Algorithms Unlocked by Thomas H. Cormen*
+- [Amazon](https://www.amazon.com/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805)
+- ISBN-13: 978-0262518802
+
 ## C-lang
 
 *The C Programming Language by Brian W. Kernighan and Dennis Ritchie*
@@ -83,10 +95,6 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - ISBN-13: 978-0735611313
 
-*Data Structures And Algorithms Made Easy*
-- [Amazon Smile](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X)
-- ISBN-13: 978-8193245279
-
 *Think Python: How to Think Like a Computer Scientist*
 - [Amazon Smile](https://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - ISBN-13: 978-1491939369
@@ -94,14 +102,6 @@ title: Books to Read for Programmers
 *Python Crash Course: A Hands-On, Project-Based Introduction to Programming*
 - [Amazon Smile](https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
 - ISBN-13: 978-1593276034
-
-*Computer Science Distilled: Learn the art of solving computaitonal problems by Wladston Ferreira Filho*
-- [Amazon](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
-- ISBN-13: 978-0-9773160-2-5
-
-*Algorithms Unlocked by Thomas H. Cormen*
-- [Amazon](https://www.amazon.com/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805)
-- ISBN-13: 978-0262518802
 
 *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers*
 - [Amazon Smile](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_2?ie=UTF8&qid=1538665634&sr=8-2&keywords=violent+python)
