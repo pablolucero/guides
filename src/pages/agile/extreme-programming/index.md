@@ -13,3 +13,9 @@ The basic advantage of XP is that the whole process is visible and accountable. 
 #### More Information:
 
 <a href='http://www.extremeprogramming.org/rules.html' target='_blank' rel='nofollow'>Rules of Extreme Programming</a>
+
+The foundational book by Kent Beck
+
+*Extreme Programming Explained: Embrace Change, 2nd Edition*
+- [Amazon Smile](https://smile.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+- ISBN-13: 978-0321278654
