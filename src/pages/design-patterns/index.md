@@ -3,11 +3,11 @@ title: Design Patterns
 ---
 ## Design Patterns
 
-This is a stub. <a href='https://github.com/freeCodeCamp/guide/blob/master/src/pages/design-patterns/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
-
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+A desing pattern is a repeatable solution to a commonly occurring problem in software design.
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+##### Books
+
+*Head First Design Patterns*
+- [Amazon Smile](https://smile.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/)
+- ISBN-13: 978-0596007126
